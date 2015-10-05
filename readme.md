@@ -1,4 +1,4 @@
-# Diffrent types of Attributes andLabels Drive Modeling Choices
+# Diffrent types of Attributes and Labels Drive Modeling Choices
 
 There are various types of attributes, numeric variables and ategorical variables. Numeric variables is the most usual type of attribute. Categorical or Factor variables, have no order relation between the values. Many machine learning algorithms take numeric values only. They cannot handle categorical or factor variables.
 
