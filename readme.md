@@ -30,11 +30,12 @@ Dependent variables
 
 Responses
 
-Different types of Attributes and labels drive modelling choices, when labels are numeric the problem is called a regression problem. When the labels are categorical, the probelm is called a classification problem.
+Different types of Attributes and labels drive modelling choices, when labels are numeric the problem is called a regression problem. When the labels are categorical, the probelm is called a classification problem. If the catogorical target takes only two values, the problem is called a binary classification problem. If it takes more than two values, the problem is called a multiclass classification problem.
 
+# ghghghg
 
+# i like water
 
-
-
+* hi world *(a) Pr(X=k)=n!k!(n−k)!pk(1−p)n−k
 
 

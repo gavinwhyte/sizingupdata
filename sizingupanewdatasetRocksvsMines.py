@@ -57,7 +57,7 @@ for col in range(ncol):
     colCounts.append(type)
     type = [0]*3
 
-sys.stdout.write("Col " + '\t' + "Number" + '\t' + "Strings" + 't' + "Other\n")
+sys.stdout.write("Col " + '\t' + "Number" + '\t' + "Strings" + '\t' + "Other\n")
 
 iCol = 0
 
